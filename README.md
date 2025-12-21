@@ -19,7 +19,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Salesforce%20certified%20JavaScript%20Developer%20%20-%20I&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Salesforce%20certified%20JavaScript%20Developer%20%20-%20I&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="JS DEV-I Certified"  />
+  <img src="https://img.shields.io/static/v1?message=Salesforce%20certified%20Data%20cloud%20Consultant&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Data cloud certified"  />
 </div>
 
 ###
@@ -42,6 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 </div>
 
 ###
