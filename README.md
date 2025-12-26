@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="<YOUR_LINKEDIN_URL>" target="_blank">
+  <a href="https://www.linkedin.com/in/gadiparthi-yoga-sairam-teja-bba940221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:<YOUR_GMAIL_ID>">
+  <a href="mailto:sairamteja13@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
@@ -17,12 +17,13 @@
 
 ## 🛠 What I Work With
 
-- Apex (Triggers, Batch, Queueable, Callouts)
+- Salesforce Apex
 - Lightning Web Components (LWC)
 - Salesforce Flows
 - REST APIs & Bulk API
 - SOQL & SOSL (including large data volumes)
-- Experience Cloud (basic implementations)
+- Experience Cloud
+- Javascript
 - Git & version control
 
 ## 🧑‍💻 Tech Stack
