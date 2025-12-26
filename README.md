@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gadiparthi-yoga-sairam-teja-bba940221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:sairamteja13@gmail.com">
+  <a href="mailto:sairamteja413@gmail.com>
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
@@ -51,9 +51,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairamteja13&layout=compact&theme=dracula" height="150"/>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairamteja13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairamteja13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
