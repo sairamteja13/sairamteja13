@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gadiparthi-yoga-sairam-teja-bba940221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:sairamteja413@gmail.com>
+  <a href="mailto:sairamteja413@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
