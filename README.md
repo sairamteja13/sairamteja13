@@ -21,7 +21,7 @@
 - Lightning Web Components (LWC)
 - Salesforce Flows
 - REST APIs & Bulk API
-- SOQL & SOSL (including large data volumes)
+- SOQL & SOSL
 - Experience Cloud
 - Javascript
 - Git & version control
