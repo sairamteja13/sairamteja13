@@ -43,8 +43,10 @@
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Salesforce-JavaScript%20Developer%20I-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Salesforce-Data%20Cloud%20Consultant-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-JavaScript%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-Data%20360%20Consultant-blue?style=for-the-badge"/>
 </p>
 
 ---
